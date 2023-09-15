@@ -1,10 +1,11 @@
 package Inheritance;
 
-public class FirstClass {
+public class SimpleProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("firoz");
+		
+		System.out.println("hi");
 
 	}
 

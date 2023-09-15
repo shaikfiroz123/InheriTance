@@ -1,10 +1,10 @@
-package Inheritance;
+package OverLoading;
 
-public class SecondClass {
+public class MethodOverLoading {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hi firoz shaik");
+		
 
 	}
 
