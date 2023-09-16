@@ -40,7 +40,7 @@ public class MethodOverLoading {
 		
 		Bb b=new Bb();
 		b.x=40;
-		b.na="hahahaha";
+		b.na="Too Much Ra Rey";
 		b.show();
 		
 
